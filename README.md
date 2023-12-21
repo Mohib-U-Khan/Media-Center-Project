@@ -1,12 +1,10 @@
+# Media-Center-Project
 
-A Media Center developed using the MCB1700 board and C/C++ with uVision.
+Media Center Capable of streaming audio, displaying a gallery of images, and hosting the classic snake game.
 
-Features include a
-- photo gallery capable of displaying various bmp files, 
-- mp3 player that streams audio from PC
-- snake game with varying levels of difficulty and lose scenario
+Project code has been tested and works properly.
 
-<img src="Images/menu.JPG" width="318" height="226"> <img src="Images/gallery.JPG" width="318" height="226">
-<img src="Images/mp3.JPG" width="318" height="226"> <img src="Images/snake.JPG" width="318" height="226">
+If you are currently taking the course, please do not copy but rather use it as a reference only.
+
 
 
