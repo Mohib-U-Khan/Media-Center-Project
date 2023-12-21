@@ -1,0 +1,13 @@
+.\flash\gallery.o: gallery.c
+.\flash\gallery.o: .\inc\LPC17xx.H
+.\flash\gallery.o: .\inc\core_cm3.h
+.\flash\gallery.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\gallery.o: .\inc\system_LPC17xx.h
+.\flash\gallery.o: .\inc\LPC17xx.h
+.\flash\gallery.o: GLCD.h
+.\flash\gallery.o: LED.h
+.\flash\gallery.o: KBD.h
+.\flash\gallery.o: csgo_logo.c
+.\flash\gallery.o: valorant_logo.c
+.\flash\gallery.o: cod_logo.c
+.\flash\gallery.o: david.c
